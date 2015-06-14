@@ -7,11 +7,12 @@ html {
     background-color: #e5e5e5;
 }
 body {
-    background-image: url('./img/sky.jpg');
+    background-image: url('./img/sky.png');
     position: absolute;
     min-height: 100%;
     min-width: 100%;
     margin: 0;
     background-size: 100% 100%;
-    font-family: Menlo, Monaco, Consolas, "Lucida Console", monospace;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #61CFEC;
 }
