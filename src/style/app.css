@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+    overflow: hidden;
+    background-color: #e5e5e5;
+}
+body {
+    background-image: url('./img/sky.jpg');
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    margin: 0;
+    background-size: 100% 100%;
+    font-family: Menlo, Monaco, Consolas, "Lucida Console", monospace;
+}
